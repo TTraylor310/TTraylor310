@@ -15,5 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Header for the profile Page](Tim%20gitHub.png)
+![Header for the profile Page](header.png)
 
+<a href='http://www.linkedin.com/in/ttraylor310' target='_blank' rel='noopenernoreferrer'><img height='38' src='./linkedin.png'></a>&nbsp;&nbsp;
+
+<img src='https://visitor-badge.glitch.me/badge?page_id=ttraylor310.ttraylor310&left_color=darkblue&right_color=black' width='110px'>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ttraylor310&layout=compact&exclude_repo=data-structures-and-algorithms)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ttraylor310)](https://github.com/ttraylor310/github-readme-stats)
