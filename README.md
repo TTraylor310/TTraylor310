@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ttraylor310&layout=compact&exclude_repo=data-structures-and-algorithms)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ttraylor310)](https://github.com/ttraylor310/github-readme-stats)
+<!-- [![Tim Traylor's stats](https://github-readme-stats.vercel.app/api/wakatime?username=ttraylor310)](https://github.com/ttraylor310/github-readme-stats) -->
