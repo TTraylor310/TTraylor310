@@ -9,7 +9,8 @@
 - ⚡ Fun fact: ...
 -->
 
- ![Header for the profile Page](header.png)
+ <!-- ![Header for the profile Page](header.png) -->
+ ![Header for the profile Page](1.png)
 
 <a href='http://www.linkedin.com/in/ttraylor310' target='_blank' rel='noopenernoreferrer'><img height='38' src='./linkedin.png'></a>&nbsp;&nbsp;
 
