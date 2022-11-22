@@ -9,7 +9,7 @@
 - ⚡ Fun fact: ...
 -->
 
-<!-- ![Header for the profile Page](header.png)
+ ![Header for the profile Page](header.png)
 
 <a href='http://www.linkedin.com/in/ttraylor310' target='_blank' rel='noopenernoreferrer'><img height='38' src='./linkedin.png'></a>&nbsp;&nbsp;
 
@@ -28,7 +28,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ttraylor310&repo=caps" />
 </a> -->
 
-
+<!-- 
 <h1 align="center">Hi 👋, I'm Tim Traylor</h1>
 <h3 align="center">Full-Stack JavaScript developer from Submarine Nuclear Electrician</h3>
 
@@ -52,4 +52,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ttraylor310&show_icons=true&locale=en" alt="ttraylor310" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ttraylor310&" alt="ttraylor310" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ttraylor310&" alt="ttraylor310" /></p> -->
