@@ -2,8 +2,7 @@
 <a href='http://www.linkedin.com/in/ttraylor310' target='_blank' rel='noopenernoreferrer'><img height='38' src='./linkedin.png'></a>&nbsp;&nbsp;
 <a href='http://www.linkedin.com/in/ttraylor310' target='_blank' rel='noopenernoreferrer'><img height='38' src='./linkedin.png'></a>&nbsp;&nbsp;
 
-<img src='https://visitor-badge.glitch.me/badge?page_id=ttraylor310.ttraylor310&left_color=darkblue&right_color=black' width='110px'>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ttraylor310&" alt="ttraylor310" /></p>
+<!-- <img src='https://visitor-badge.glitch.me/badge?page_id=ttraylor310.ttraylor310&left_color=darkblue&right_color=black' width='110px'> -->
 
 
 
