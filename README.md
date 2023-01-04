@@ -20,7 +20,7 @@
 - ⚡ Fun fact: ...
 -->
 
- <!-- ![Header for the profile Page](header.png) -->
+ <!-- ![Header for the profile Page](header.png)
  ![Header for the profile Page](1.png)
 
 
