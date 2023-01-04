@@ -1,3 +1,14 @@
+![Header for the profile Page](1.png)
+<a href='http://www.linkedin.com/in/ttraylor310' target='_blank' rel='noopenernoreferrer'><img height='38' src='./linkedin.png'></a>&nbsp;&nbsp;
+<a href='http://www.linkedin.com/in/ttraylor310' target='_blank' rel='noopenernoreferrer'><img height='38' src='./linkedin.png'></a>&nbsp;&nbsp;
+
+<img src='https://visitor-badge.glitch.me/badge?page_id=ttraylor310.ttraylor310&left_color=darkblue&right_color=black' width='110px'>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ttraylor310&" alt="ttraylor310" /></p>
+
+
+
+
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -12,9 +23,6 @@
  <!-- ![Header for the profile Page](header.png) -->
  ![Header for the profile Page](1.png)
 
-<a href='http://www.linkedin.com/in/ttraylor310' target='_blank' rel='noopenernoreferrer'><img height='38' src='./linkedin.png'></a>&nbsp;&nbsp;
-
-<img src='https://visitor-badge.glitch.me/badge?page_id=ttraylor310.ttraylor310&left_color=darkblue&right_color=black' width='110px'>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ttraylor310&layout=compact&theme=algolia&exclude_repo=data-structures-and-algorithms)](https://github.com/ttraylor310/github-readme-stats)
 
@@ -22,12 +30,22 @@
 
 <!-- [![Tim Traylor's stats](https://github-readme-stats.vercel.app/api/wakatime?username=ttraylor310)](https://github.com/ttraylor310/github-readme-stats) -->
 
+
+
+
 <!-- <a href="https://github.com/ttraylor310/bt-auth-api">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ttraylor310&theme=algolia&repo=bt-auth-api" />
 </a> -->
+
+
+
+
 <!-- <a href="https://github.com/ttraylor310/caps">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ttraylor310&repo=caps" />
 </a> -->
+
+
+
 
 <!-- 
 <h1 align="center">Hi 👋, I'm Tim Traylor</h1>
